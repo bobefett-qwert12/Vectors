@@ -17,6 +17,7 @@ class Controller
     
 public:
     void start();
+    void vectorReturn();
 };
 
 #endif /* Controller_hpp */
